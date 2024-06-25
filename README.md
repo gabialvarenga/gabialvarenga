@@ -1,4 +1,4 @@
-### Hi! I am Gabriela Alvarenga, Software Engineering student 👋
+### Olá! Eu sou Gabriela Alvarenga, estudante de Engenharia de Software. 👋
 
 <div>
 <a href="https://github.com/gabialvarenga">
