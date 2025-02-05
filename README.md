@@ -10,8 +10,8 @@
 
 **Linguagens estudadas**
 
-![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=C%2B%2B&logoColor=C++)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=OpenJDK&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=C%2B%2B&logoColor=C++)
 ![C](https://img.shields.io/badge/C-333333?style==flat&logo=c&logoColor=white)
 
 **Ferramentas** 
