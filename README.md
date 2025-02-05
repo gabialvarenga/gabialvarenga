@@ -1,26 +1,10 @@
 ``` diff
-@@ Oii ⭐ @@
-@@ Eu sou a Gabriela Alvarenga @@
+Oi, tudo bem ? ⭐ 
+Eu sou a Gabriela Alvarenga 
 
-> Sou estudante de engenharia de software!;
+> Sou estudante de engenharia de software!
 
 ```
-
-**Linguagens estudadas**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=OpenJDK&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=C%2B%2B&logoColor=C++)
-![C](https://img.shields.io/badge/C-333333?style==flat&logo=c&logoColor=white)
-
-**Ferramentas** 
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=Repl.it&logoColor=white)
-
 
 **Onde me encontrar**
 
