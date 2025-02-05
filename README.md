@@ -6,8 +6,6 @@
 
 ```
 
-### Minhas habilidades
-
 **Linguagens estudadas**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=OpenJDK&logoColor=white)
