@@ -58,9 +58,6 @@ Eu sou a Gabriela Alvarenga
   <summary><b>Github Streaks</b></summary>
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=gabialvarenga&theme=jolly&hide_border=true&border_radius=7&date_format=j%2Fn%5B%2FY%5D)  
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)  
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)  
 </details>
 
 ### Onde me encontrar  
