@@ -1,16 +1,29 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gabialvarenga&color=8A2BE2)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=I'm+Gabi+Alvarenga)
+<div align="center">  
+  <a href="https://git.io/typing-svg">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=I'm+Gabi+Alvarenga" alt="Typing SVG">  
+  </a>  
+</div> 
 
-<img align="right" src="https://i.pinimg.com/originals/14/17/7f/14177fa3edbc68334fd1d578f473732f.gif" width="350" alt="MasterHead">
+<div>
+<img align="right" src="https://i.pinimg.com/originals/14/17/7f/14177fa3edbc68334fd1d578f473732f.gif" width="250" alt="MasterHead"></br>
 
-Oi, tudo bem? ⭐  
-Eu sou a **Gabriela Alvarenga**  
-*Estudante de Engenharia de Software!*  
-Explorando novas tecnologias e desenvolvendo soluções de software ☄  
 
-## Tecnologias e Ferramentas  
-** Aplicações e Dados:**  
+
+``` diff
+Oi, tudo bem ? ⭐ 
+Eu sou a Gabriela Alvarenga 
+
+> Sou estudante de engenharia de software!
+```
+
+</div>
+
+### Tecnologias e Ferramentas  
+
+**Aplicações e Dados:**  
+
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
@@ -21,15 +34,17 @@ Explorando novas tecnologias e desenvolvendo soluções de software ☄
 ![Camunda](https://img.shields.io/badge/-Camunda-333333?style=flat&logo=Camunda) 
 
 **DevOps:**  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
 
 
 **Ferramentas:**  
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)  
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)  
+
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <details>
   <summary><b>Github Status</b></summary>
@@ -42,14 +57,16 @@ Explorando novas tecnologias e desenvolvendo soluções de software ☄
 <details>
   <summary><b>Github Streaks</b></summary>
 
-  ![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=gabialvarenga&theme=jolly&hide_border=true&border_radius=7&date_format=j%2Fn%5B%2FY%5D)  
+![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=gabialvarenga&theme=jolly&hide_border=true&border_radius=7&date_format=j%2Fn%5B%2FY%5D)  
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)  
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)  
 </details>
 
-## 🌍 Onde me encontrar 💻  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-alvarenga-a70177318/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gabialvarengac/)  
-[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabialvarenga4@gmail.com)  
-[![GitHub](https://img.shields.io/github/followers/gabialvarenga?label=follow&style=social)](https://github.com/gabialvarenga/)  
+### Onde me encontrar  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-alvarenga-a70177318/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gabialvarengac/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabialvarenga4@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/gabialvarenga?label=follow&style=social)](https://github.com/gabialvarenga/)
+
+ 
