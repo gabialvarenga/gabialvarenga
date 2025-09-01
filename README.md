@@ -27,17 +27,6 @@ Desenvolvedora em formação, movida pela curiosidade e pela vontade de criar :)
 
 ### Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,azure,jira,trello)](https://skillicons.dev)
-
-### GitHub Stats  
-<div>
-<img height="170cm" src="https://github-readme-stats.vercel.app/api?username=gabialvarenga&show_icons=true&theme=jolly&include_all_commits=true&count_private=true&hide_border=true" /> 
-<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabialvarenga&layout=compact&langs_count=6&theme=jolly&hide_border=true"/> 
-</div>
-
-### GitHub Streaks  
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabialvarenga&theme=jolly&hide_border=true&border_radius=7&date_format=j%2Fn%5B%2FY%5D" alt="Github Streak"/>
-</div>
   
 ### Onde me encontrar <3
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-alvarenga-a70177318/)
